@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="STEP NIV RAW Gen2" type="PLAIN_TEXT" />
+      <mapping pattern="STEP KJV STRONG" type="PLAIN_TEXT" />
+      <mapping pattern="design" type="PLAIN_TEXT" />
+      <mapping pattern="ESV RAW Gen2" type="PLAIN_TEXT" />
+      <mapping pattern="KJV STRONG Hebrews STRUCTURE" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="BODY" type="PLAIN_TEXT" />
+      <mapping pattern="STEP ESV2011 Strong" type="PLAIN_TEXT" />
+      <mapping pattern="STEP KJV RAW Gen2" type="PLAIN_TEXT" />
+      <mapping pattern="NOTESPANE" type="PLAIN_TEXT" />
+      <mapping ext="sxd" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
